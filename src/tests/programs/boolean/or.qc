@@ -1,0 +1,13 @@
+SET d0 1
+SET d1 0
+OR d0 d1 d2
+SET d3 1
+SET d4 1
+OR d3 d4 d5
+SET d6 0
+SET d7 1
+OR d6 d7 d8
+SET d9 0
+SET d10 0
+OR d9 d10 d11
+STOP

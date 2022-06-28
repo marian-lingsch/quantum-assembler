@@ -1,0 +1,3 @@
+NOT 0 d1
+NOT 1 d3
+STOP

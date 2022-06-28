@@ -1,0 +1,4 @@
+SET d0 1
+SET d1 10
+SUB d1 d0 d2
+STOP

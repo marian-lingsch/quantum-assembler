@@ -1,0 +1,3 @@
+SET d0 1
+SUB 10 d0 d2
+STOP

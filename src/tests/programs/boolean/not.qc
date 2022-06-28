@@ -1,0 +1,5 @@
+SET d0 0
+NOT d0 d1
+SET d2 1
+NOT d2 d3
+STOP

@@ -1,0 +1,3 @@
+SET d0 4
+SQRT d0 d1
+STOP

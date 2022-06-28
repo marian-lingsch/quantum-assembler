@@ -1,0 +1,8 @@
+AND 1 0 d2
+SET d3 1
+AND d3 1 d5
+SET d7 1
+AND 0 d7 d8
+SET d9 0
+AND d9 0 d11
+STOP
